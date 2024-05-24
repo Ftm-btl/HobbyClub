@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CreatingHoby.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d24c82119ea49a939c4f7878bf03cc875dc9acdf")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreatingHoby.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreatingHoby.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

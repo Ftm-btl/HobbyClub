@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CreatingHoby\\CreatingHoby.Application\\CreatingHoby.Application.csproj": {}
+    "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\CreatingHoby.Application.csproj": {}
   },
   "projects": {
-    "E:\\CreatingHoby\\CreatingHoby.Application\\CreatingHoby.Application.csproj": {
+    "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\CreatingHoby.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CreatingHoby\\CreatingHoby.Application\\CreatingHoby.Application.csproj",
+        "projectUniqueName": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\CreatingHoby.Application.csproj",
         "projectName": "CreatingHoby.Application",
-        "projectPath": "E:\\CreatingHoby\\CreatingHoby.Application\\CreatingHoby.Application.csproj",
+        "projectPath": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\CreatingHoby.Application.csproj",
         "packagesPath": "C:\\Users\\taha\\.nuget\\packages\\",
-        "outputPath": "E:\\CreatingHoby\\CreatingHoby.Application\\obj\\",
+        "outputPath": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\CreatingHoby\\CreatingHoby.Domain\\CreatingHoby.Domain.csproj": {
-                "projectPath": "E:\\CreatingHoby\\CreatingHoby.Domain\\CreatingHoby.Domain.csproj"
+              "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\CreatingHoby.Domain.csproj": {
+                "projectPath": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\CreatingHoby.Domain.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "E:\\CreatingHoby\\CreatingHoby.Domain\\CreatingHoby.Domain.csproj": {
+    "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\CreatingHoby.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CreatingHoby\\CreatingHoby.Domain\\CreatingHoby.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\CreatingHoby.Domain.csproj",
         "projectName": "CreatingHoby.Domain",
-        "projectPath": "E:\\CreatingHoby\\CreatingHoby.Domain\\CreatingHoby.Domain.csproj",
+        "projectPath": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\CreatingHoby.Domain.csproj",
         "packagesPath": "C:\\Users\\taha\\.nuget\\packages\\",
-        "outputPath": "E:\\CreatingHoby\\CreatingHoby.Domain\\obj\\",
+        "outputPath": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
