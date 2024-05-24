@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingHoby.Domain", "CreatingHoby.Domain\CreatingHoby.Domain.csproj", "{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingHoby.Application", "CreatingHoby.Application\CreatingHoby.Application.csproj", "{F98A0156-7707-49F7-8082-D491065D6AE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F98A0156-7707-49F7-8082-D491065D6AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98A0156-7707-49F7-8082-D491065D6AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98A0156-7707-49F7-8082-D491065D6AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98A0156-7707-49F7-8082-D491065D6AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB9E0882-F342-4741-8227-BED9E1F7890B}
+	EndGlobalSection
+EndGlobal
