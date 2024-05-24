@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CreatingHoby.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d24c82119ea49a939c4f7878bf03cc875dc9acdf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a3c37d068b851901f4322db12fb4389a1273e54")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreatingHoby.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreatingHoby.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

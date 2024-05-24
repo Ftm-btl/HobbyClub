@@ -8,7 +8,7 @@ namespace CreatingHoby.Domain.Common
 {
     public class EntityBase<TKey>
     {
-        public Guid Id { get; set; }
+        public TKey Id { get; set; }
         public string Name { get; set; }
 
         public DateTime CreatedAt { get; set; }

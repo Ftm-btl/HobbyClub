@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace CreatingHoby.Application.Interfaces
 {
-    public interface IUserServices
+    public interface IUserService
     {
-        UserDto GetUserById(int id);
+        UserDto GetUserById(Guid id);
         IEnumerable<UserDto> GetAllUsers();
         void AddUser(UserDto userDto);
         void UpdateUser(UserDto userDto);
-        void DeleteUser(int id);
+        void DeleteUser(Guid id);
     }
 }

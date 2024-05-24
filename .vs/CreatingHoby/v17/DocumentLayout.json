@@ -1,37 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F98A0156-7707-49F7-8082-D491065D6AE3}|CreatingHoby.Application\\CreatingHoby.Application.csproj|c:\\users\\taha\\documents\\github\\hobbyclub\\creatinghoby.application\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98A0156-7707-49F7-8082-D491065D6AE3}|CreatingHoby.Application\\CreatingHoby.Application.csproj|solutionrelative:creatinghoby.application\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F98A0156-7707-49F7-8082-D491065D6AE3}|CreatingHoby.Application\\CreatingHoby.Application.csproj|c:\\users\\user\\documents\\github\\hobbyclub\\creatinghoby.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98A0156-7707-49F7-8082-D491065D6AE3}|CreatingHoby.Application\\CreatingHoby.Application.csproj|solutionrelative:creatinghoby.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}|CreatingHoby.Domain\\CreatingHoby.Domain.csproj|c:\\users\\taha\\documents\\github\\hobbyclub\\creatinghoby.domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}|CreatingHoby.Domain\\CreatingHoby.Domain.csproj|solutionrelative:creatinghoby.domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}|CreatingHoby.Domain\\CreatingHoby.Domain.csproj|c:\\users\\taha\\documents\\github\\hobbyclub\\creatinghoby.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}|CreatingHoby.Domain\\CreatingHoby.Domain.csproj|solutionrelative:creatinghoby.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}|CreatingHoby.Domain\\CreatingHoby.Domain.csproj|c:\\users\\taha\\documents\\github\\hobbyclub\\creatinghoby.domain\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}|CreatingHoby.Domain\\CreatingHoby.Domain.csproj|solutionrelative:creatinghoby.domain\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}|CreatingHoby.Domain\\CreatingHoby.Domain.csproj|c:\\users\\taha\\documents\\github\\hobbyclub\\creatinghoby.domain\\entities\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}|CreatingHoby.Domain\\CreatingHoby.Domain.csproj|solutionrelative:creatinghoby.domain\\entities\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}|CreatingHoby.Domain\\CreatingHoby.Domain.csproj|c:\\users\\taha\\documents\\github\\hobbyclub\\creatinghoby.domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}|CreatingHoby.Domain\\CreatingHoby.Domain.csproj|solutionrelative:creatinghoby.domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F98A0156-7707-49F7-8082-D491065D6AE3}|CreatingHoby.Application\\CreatingHoby.Application.csproj|c:\\users\\taha\\documents\\github\\hobbyclub\\creatinghoby.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F98A0156-7707-49F7-8082-D491065D6AE3}|CreatingHoby.Application\\CreatingHoby.Application.csproj|c:\\users\\user\\documents\\github\\hobbyclub\\creatinghoby.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F98A0156-7707-49F7-8082-D491065D6AE3}|CreatingHoby.Application\\CreatingHoby.Application.csproj|solutionrelative:creatinghoby.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F98A0156-7707-49F7-8082-D491065D6AE3}|CreatingHoby.Application\\CreatingHoby.Application.csproj|c:\\users\\taha\\documents\\github\\hobbyclub\\creatinghoby.application\\creatinghoby.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}|CreatingHoby.Domain\\CreatingHoby.Domain.csproj|c:\\users\\user\\documents\\github\\hobbyclub\\creatinghoby.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}|CreatingHoby.Domain\\CreatingHoby.Domain.csproj|solutionrelative:creatinghoby.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}|CreatingHoby.Domain\\CreatingHoby.Domain.csproj|c:\\users\\user\\documents\\github\\hobbyclub\\creatinghoby.domain\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}|CreatingHoby.Domain\\CreatingHoby.Domain.csproj|solutionrelative:creatinghoby.domain\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}|CreatingHoby.Domain\\CreatingHoby.Domain.csproj|c:\\users\\user\\documents\\github\\hobbyclub\\creatinghoby.domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}|CreatingHoby.Domain\\CreatingHoby.Domain.csproj|solutionrelative:creatinghoby.domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A0156-7707-49F7-8082-D491065D6AE3}|CreatingHoby.Application\\CreatingHoby.Application.csproj|c:\\users\\user\\documents\\github\\hobbyclub\\creatinghoby.application\\interfaces\\iclubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98A0156-7707-49F7-8082-D491065D6AE3}|CreatingHoby.Application\\CreatingHoby.Application.csproj|solutionrelative:creatinghoby.application\\interfaces\\iclubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A0156-7707-49F7-8082-D491065D6AE3}|CreatingHoby.Application\\CreatingHoby.Application.csproj|c:\\users\\user\\documents\\github\\hobbyclub\\creatinghoby.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98A0156-7707-49F7-8082-D491065D6AE3}|CreatingHoby.Application\\CreatingHoby.Application.csproj|solutionrelative:creatinghoby.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A0156-7707-49F7-8082-D491065D6AE3}|CreatingHoby.Application\\CreatingHoby.Application.csproj|c:\\users\\user\\documents\\github\\hobbyclub\\creatinghoby.application\\dtos\\clubdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98A0156-7707-49F7-8082-D491065D6AE3}|CreatingHoby.Application\\CreatingHoby.Application.csproj|solutionrelative:creatinghoby.application\\dtos\\clubdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}|CreatingHoby.Domain\\CreatingHoby.Domain.csproj|c:\\users\\user\\documents\\github\\hobbyclub\\creatinghoby.domain\\entities\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}|CreatingHoby.Domain\\CreatingHoby.Domain.csproj|solutionrelative:creatinghoby.domain\\entities\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}|CreatingHoby.Domain\\CreatingHoby.Domain.csproj|c:\\users\\user\\documents\\github\\hobbyclub\\creatinghoby.domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B869A36B-4DF2-4ADE-8F3C-A06945C974FA}|CreatingHoby.Domain\\CreatingHoby.Domain.csproj|solutionrelative:creatinghoby.domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A0156-7707-49F7-8082-D491065D6AE3}|CreatingHoby.Application\\CreatingHoby.Application.csproj|c:\\users\\user\\documents\\github\\hobbyclub\\creatinghoby.application\\creatinghoby.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F98A0156-7707-49F7-8082-D491065D6AE3}|CreatingHoby.Application\\CreatingHoby.Application.csproj|solutionrelative:creatinghoby.application\\creatinghoby.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -42,30 +54,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "CreatingHoby.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "CreatingHoby.Application\\Services\\UserService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:29:39.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IClubService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\Interfaces\\IClubService.cs",
+              "RelativeDocumentMoniker": "CreatingHoby.Application\\Interfaces\\IClubService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\Interfaces\\IClubService.cs",
+              "RelativeToolTip": "CreatingHoby.Application\\Interfaces\\IClubService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:11:56.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClubDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\Dtos\\ClubDto.cs",
+              "RelativeDocumentMoniker": "CreatingHoby.Application\\Dtos\\ClubDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\Dtos\\ClubDto.cs",
+              "RelativeToolTip": "CreatingHoby.Application\\Dtos\\ClubDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:11:20.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EntityBase.cs",
-              "DocumentMoniker": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\Common\\EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\Common\\EntityBase.cs",
               "RelativeDocumentMoniker": "CreatingHoby.Domain\\Common\\EntityBase.cs",
-              "ToolTip": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\Common\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\Common\\EntityBase.cs",
               "RelativeToolTip": "CreatingHoby.Domain\\Common\\EntityBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T09:43:53.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IUserServices.cs",
-              "DocumentMoniker": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\Services\\IUserServices.cs",
-              "RelativeDocumentMoniker": "CreatingHoby.Application\\Services\\IUserServices.cs",
-              "ToolTip": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\Services\\IUserServices.cs",
-              "RelativeToolTip": "CreatingHoby.Application\\Services\\IUserServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "CreatingHoby.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "CreatingHoby.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T08:19:07.823Z",
               "EditorCaption": ""
@@ -74,9 +125,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\Entities\\User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "CreatingHoby.Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\Entities\\User.cs",
               "RelativeToolTip": "CreatingHoby.Domain\\Entities\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,37 +136,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\Entities\\Event.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\Entities\\Event.cs",
               "RelativeDocumentMoniker": "CreatingHoby.Domain\\Entities\\Event.cs",
-              "ToolTip": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\Entities\\Event.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\Entities\\Event.cs",
               "RelativeToolTip": "CreatingHoby.Domain\\Entities\\Event.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T13:00:42.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T13:00:42.394Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Club.cs",
-              "DocumentMoniker": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\Entities\\Club.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\Entities\\Club.cs",
               "RelativeDocumentMoniker": "CreatingHoby.Domain\\Entities\\Club.cs",
-              "ToolTip": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\Entities\\Club.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\Entities\\Club.cs",
               "RelativeToolTip": "CreatingHoby.Domain\\Entities\\Club.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T12:57:04.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T12:57:04.484Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\Enums\\Role.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\Enums\\Role.cs",
               "RelativeDocumentMoniker": "CreatingHoby.Domain\\Enums\\Role.cs",
-              "ToolTip": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\Enums\\Role.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Domain\\Enums\\Role.cs",
               "RelativeToolTip": "CreatingHoby.Domain\\Enums\\Role.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -124,27 +173,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "CreatingHoby.Application\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "CreatingHoby.Application\\Dtos\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:14:22.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CreatingHoby.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\CreatingHoby.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\CreatingHoby.Application.csproj",
               "RelativeDocumentMoniker": "CreatingHoby.Application\\CreatingHoby.Application.csproj",
-              "ToolTip": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\CreatingHoby.Application.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\CreatingHoby.Application.csproj",
               "RelativeToolTip": "CreatingHoby.Application\\CreatingHoby.Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-05-24T08:18:37.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\Dtos\\UserDto.cs",
-              "RelativeDocumentMoniker": "CreatingHoby.Application\\Dtos\\UserDto.cs",
-              "ToolTip": "C:\\Users\\taha\\Documents\\GitHub\\HobbyClub\\CreatingHoby.Application\\Dtos\\UserDto.cs",
-              "RelativeToolTip": "CreatingHoby.Application\\Dtos\\UserDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T08:14:22.09Z"
             }
           ]
         }
